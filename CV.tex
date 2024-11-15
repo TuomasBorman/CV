@@ -86,6 +86,7 @@
 	\end{tabular*}\vspace{-7pt}
 }
 
+
 \newcommand{\CVSubItem}[1]{\CVItem{#1}\vspace{-4pt}}
 
 \renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
@@ -104,6 +105,7 @@
 	\begin{minipage}[c]{0.05\textwidth}
 		\-\
 	\end{minipage}
+	\begin{comment}
 	\begin{minipage}[c]{0.225\textwidth}
 		\begin{tikzpicture}
 			\clip (0,0) circle (1.75cm);
@@ -111,7 +113,9 @@
 		\end{tikzpicture}
 		\hfill\vline\hfill
 	\end{minipage}
-	\begin{minipage}[c]{0.5\textwidth}
+	\end{comment}
+	\begin{minipage}[c]{%0.5
+			\textwidth}
 		\textbf{\Huge \scshape{Tuomas Borman}} \\ \vspace{1pt} 
 		\small{Data Scientist \& Bioinformatician | MSc (Tech) \& MSc (Econ)} \\ \par
 		\faPhone \quad +358 40 522 5386 \\
@@ -189,6 +193,16 @@
 	%\CVItem{Key developer}
 	%\CVItem{Maintainer of packages %\emph{\href{https://www.bioconductor.org/packages/release/bioc/html/mia.html}{mia}} and %\emph{\href{https://www.bioconductor.org/packages/release/bioc/html/miaViz.html}{miaViz}}.}
 	%\CVItemListEnd
+	\CVSubHeadingListEnd
+	
+	\section{Volunteering}
+	\CVSubHeadingListStart
+	\CVSubheading
+	{\href{https://www.bioinf.fi/}{The Finnish Society for Bioinformatics}}{2024 -- Present}
+	{Board member}{}
+	\CVSubheading
+	{\href{https://biocityturku.fi/research-programs/complifesci/}{Computational and Molecular Methodologies for Life Sciences $|$ \emph{\small{BioCity Turku}}}}{2022 -- Present}
+	{Coordinator}{}
 	\CVSubHeadingListEnd
 	
 	\section{Certificates}

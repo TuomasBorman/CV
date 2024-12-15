@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.5.3)  15 NOV 2024 10:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.5.3)  15 DEC 2024 11:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -862,11 +862,11 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: B162A895B02FB376AC13A13A2D5FF0E8;647.
  ) 
 Here is how much of TeX's memory you used:
- 24909 strings out of 479574
- 458937 string characters out of 5877221
- 774698 words of memory out of 5000000
- 42441 multiletter control sequences out of 15000+600000
- 483026 words of font info for 61 fonts, out of 8000000 for 9000
+ 24910 strings out of 479574
+ 458951 string characters out of 5877221
+ 773698 words of memory out of 5000000
+ 42442 multiletter control sequences out of 15000+600000
+ 483453 words of font info for 62 fonts, out of 8000000 for 9000
  395 hyphenation exceptions out of 8191
  100i,11n,104p,1006b,827s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texliv
@@ -877,10 +877,10 @@ dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
 w/palatino/uplbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/
 uplr8a.pfb>
-Output written on CV.pdf (2 pages, 90521 bytes).
+Output written on CV.pdf (2 pages, 91452 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 73 compressed objects within 1 object stream
+ 91 PDF objects out of 1000 (max. 8388607)
+ 74 compressed objects within 1 object stream
  9 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
